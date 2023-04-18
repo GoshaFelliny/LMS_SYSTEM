@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'firstapp',
     'users',
+    'network_manage',
 ]
 
 MIDDLEWARE = [
